@@ -20,7 +20,7 @@ dev = {file = [".requirements/dev.in"] }
 
 [project]
 name = "minchin.md-it.insert"
-description = "insert, for Markdown-IT-py"
+description = "Insert, for Markdown-IT-py"
 dynamic = [
     "version",
     # "description",
