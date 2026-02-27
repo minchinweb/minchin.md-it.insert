@@ -5,7 +5,7 @@ from .funnel import insert_plugin
 __all__ = ("insert_plugin", )
 
 __title__ = "minchin.md-it.insert"
-__tagline__ = "Superscript, for Markdown-IT-Py"
+__tagline__ = "Ins(ert), for Markdown-IT-Py"
 __version__ = "1.0.1-dev"
 __author__ = "William Minchin"
 __email__ = "w_minchin@hotmail.com"

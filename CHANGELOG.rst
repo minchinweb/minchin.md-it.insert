@@ -1,4 +1,4 @@
-Changelot for Insert
+Changelog for Insert
 ====================
 
 A plugin for Markdown-IT-py
