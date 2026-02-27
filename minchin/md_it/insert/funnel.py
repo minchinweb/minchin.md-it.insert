@@ -5,6 +5,8 @@ Ported from markdown_it.rules_inline.strikethrough.
 Extracted from ``funnel`` at
     https://github.com/hasgeek/funnel/blob/main/funnel/utils/markdown/mdit_plugins/ins_tag.py
     under the AGPL-3.0 license
+
+Copyright (c) 2026 William Minchin
 """
 
 from __future__ import annotations
